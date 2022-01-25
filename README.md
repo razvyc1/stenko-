@@ -3,6 +3,8 @@
 
 # stenko - free version
 
+## [discord server](https://discord.gg/dx4n8w2ZQ6)
+
 ### features 
  - bypass for betterdiscord's protector
  - ip
